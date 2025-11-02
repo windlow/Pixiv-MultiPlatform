@@ -1,3 +1,4 @@
+> <img src="https://img.shields.io/github/last-commit/windlow/Pixiv-MultiPlatform" alt="" srcset="">  
 > English Version is [→HERE](./README_EN.md)
 
 ---
